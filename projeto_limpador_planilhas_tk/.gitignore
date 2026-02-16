@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs do projeto
+outputs/
+*_limpo.xlsx
+*_relatorio.txt
+logs/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db   
